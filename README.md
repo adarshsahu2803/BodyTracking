@@ -1,1 +1,1 @@
-# Pose-Based Character Interaction System
+# Pose Connect: Pose-Based Character Interaction System
